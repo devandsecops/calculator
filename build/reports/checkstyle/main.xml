@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="/home/ashingade/rawhub/calculator/src/main/java/com/leszko/calculator/Calculator.java">
+<error line="4" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+<file name="/home/ashingade/rawhub/calculator/src/main/java/com/leszko/calculator/CalculatorApplication.java">
+<error line="6" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+<file name="/home/ashingade/rawhub/calculator/src/main/java/com/leszko/calculator/CalculatorController.java">
+</file>
+</checkstyle>
